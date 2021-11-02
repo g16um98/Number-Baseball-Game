@@ -1,6 +1,4 @@
 # Number-Baseball-Game
-## Number Baseball Game을 만들기 위한 Repository이다.
-
 ### 이 프로그램은 숫자야구 게임(Number Baseball Game)이다. 컴퓨터와 대결하는 방식이다.
 ------------
 
